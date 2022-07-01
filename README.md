@@ -70,10 +70,10 @@ npm start
 ```ts
 global.owner = ['6281575886399','6281575886399','6281575886399']
 global.premium = ['6281575886399']
-global.ownernomer = '6281575886399'
-global.ownername = 'RIY'
+global.ownernomer = '6282325785787'
+global.ownername = 'FAL'
 global.botname = 'Chika-Md'
-global.footer = 'RIY'
+global.footer = 'FAL'
 global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
 global.ig = 'https://instagram.com/riychdwayne'
 global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
@@ -81,7 +81,7 @@ global.myweb = 'https://s.id/RiyAPIs'
 global.email = 'riychdwaynee@gmail.com'
 global.region = 'indonesia'
 global.packname = '© Chika-Md'
-global.author = 'RIY'
+global.author = 'FAL'
 global.sessionName = 'chika'
 ```
 
