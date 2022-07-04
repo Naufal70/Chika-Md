@@ -1,6 +1,6 @@
 /*
-› Create By @RIY
-› Base Ori @DikaArdnt
+› Create By @FAL
+› Base Ori @AlyA
 › Kalau mau ubah/edit owner di settings.js
 › Kalau mau tambahin fitur di index.js
 */
@@ -962,5 +962,6 @@ exports.thanksto = () => {
   *≻* Sanzy
   *≻* Nekel
   *≻* Bagas Prdn
+  *>* Fal
 `
 }
